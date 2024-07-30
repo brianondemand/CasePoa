@@ -13,7 +13,7 @@ const HomeBanner = () => {
           </p>
         </div>
         <div className="w-1/3 relative aspect-video">
-          <Image src="/casePoa.webp" alt="" fill className="object-contain" />
+          <Image src="/casePoa.png" alt="" fill className="object-contain" />
         </div>
       </div>
     </div>
